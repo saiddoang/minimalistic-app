@@ -10,6 +10,6 @@ export let options = {
 };
 
 export default function () {
-  http.get('http://localhost:3000/');
+  http.get('http://localhost:5000/');
   sleep(1);
 }

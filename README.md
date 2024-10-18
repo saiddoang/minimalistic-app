@@ -26,7 +26,7 @@ npm install
 
 ### 2. Build Docker Image
 ```bash
-docker build -t minimalistic-app .
+docker build -t minimalistic-app2 .
 ```
 
 ### 3. Start Minikube

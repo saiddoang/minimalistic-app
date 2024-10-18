@@ -1,5 +1,5 @@
 {
-  "name": "minimalistic-app",
+  "name": "minimalistic-app2",
   "version": "1.0.0",
   "description": "A minimal Node.js app with monitoring, auto-scaling, and CI/CD",
   "main": "app.js",
